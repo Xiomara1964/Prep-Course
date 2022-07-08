@@ -294,4 +294,4 @@ describe('esVocal(letra)', function() {
     expect(esVocal('o')).toBe('Es vocal');
     expect(esVocal('u')).toBe('Es vocal');
   });
-});
+})
